@@ -8,7 +8,8 @@
 * RabitMQ server
 
 ### Run an analysis
-from the repository run in two terminals 
+from the repository folder run in two terminals,
+
 first run example: 
 ```
 terminal 1 - python send.py usa 2010 www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
