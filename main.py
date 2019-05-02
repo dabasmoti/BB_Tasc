@@ -91,8 +91,6 @@ def download_db(url):
     if os.path.exists(db_path):
         print("DB exist")
         return db_open(db_path) 
-    print(db_path)
-    #db_open()
     print("Downloading...")
     try:
         r = requests.get(url)
@@ -175,7 +173,7 @@ def main(msg_):
     
     
     #Create Tables
-    #Q-5-2.1
+    #Q-5-2.1 2.2 2.4
     create_table(purchase_by_country,head='Purchase_by_country')
     create_table(items_by_country,head='Items_by_country')
     create_table(max_album_by_year_rock,head='Max_rock_album_by_year_{}_{}'.format(msg[1],msg[0]))
