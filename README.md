@@ -12,13 +12,13 @@ Download and unzip the repository
 
 from the repository folder run in two terminals,
 
-first run example: 
+### First run example: 
 
-#### Terminal 1:
+##### Terminal 1:
 ```
 python send.py usa 2010 http://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
 ```
-#### Terminal 2:
+##### Terminal 2:
 ```
 python recieve.py
 ```
