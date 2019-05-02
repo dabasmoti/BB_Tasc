@@ -16,11 +16,11 @@ From the repository folder run in two terminals,
 
 ##### Terminal 1:
 ```
-python send.py usa 2010 http://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
+python recieve.py
 ```
 ##### Terminal 2:
 ```
-python recieve.py
+python send.py usa 2010 http://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
 ```
 While the reciever terminal is still consuming, you can send different properties for a new analysis, like a different country or year
 ##### From sender terminal
