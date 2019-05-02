@@ -115,8 +115,10 @@ def search_db():
             return db_open('db/'+str(f[0]))
         else:
             print("No DB file has found, Please provide link")
+            exit()
     except FileNotFoundError:
         print("No DB file has found, Please provide link")
+        exit()
             
 
 def main(msg_):
