@@ -8,8 +8,9 @@ requests
 
 * Run an analysis
 from the repository run in two terminals 
-first run example - 
-python send.py usa 2010 www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
+first run example 
+
+    python send.py usa 2010 www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip
 
 
 
