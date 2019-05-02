@@ -22,7 +22,8 @@ python send.py usa 2010 http://www.sqlitetutorial.net/wp-content/uploads/2018/03
 ```
 python recieve.py
 ```
-while the reciever terminal is still consuming, you can send different properties for an analysis
+While the reciever terminal is still consuming, you can send different properties for an analysis
+##### From sender terminal
 ```
 python send.py brazil 2009
 ```
