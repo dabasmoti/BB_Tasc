@@ -10,7 +10,7 @@
 ### Run an analysis
 Download and unzip the repository
 
-from the repository folder run in two terminals,
+From the repository folder run in two terminals,
 
 ### First run example: 
 
