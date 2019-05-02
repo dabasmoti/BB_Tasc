@@ -20,4 +20,4 @@ while the reciever terminal is still open, you can send diffrent properties for 
 python send.py brazil 2009
 ```
 
-Reply to the sender is out of scope!
+Reply to the sender(RPC) is out of scope!
